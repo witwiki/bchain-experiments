@@ -1,2 +1,5 @@
 # bchain-experiments
-bc experiements and testing
+bc experiments and testing
+
+Ref: bcu and bitcoin.io
+
